@@ -1,0 +1,42 @@
+header {
+    background-color: darkgreen;
+    padding: 50px;
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(175, 175, 168);
+    padding: 25px;
+    
+
+}
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+    
+}
+nav a{
+    text-decoration: none!important;
+    padding: 20px;
+    color: white;
+    font-weight: bold;
+}
+nav a:hover{
+    color: blue;
+}
+
+.wrap1{
+    background-color: brown;
+    text-align: center;
+    padding: 300px;
+}
+
+footer {
+    background-color: violet;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+}
